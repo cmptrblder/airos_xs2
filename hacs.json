@@ -1,0 +1,6 @@
+{
+  "name": "airOS XS2 (SSH)",
+  "render_readme": true,
+  "domains": ["airos_xs2"],
+  "iot_class": "local_polling"
+}

@@ -1,0 +1,2 @@
+DOMAIN = "airos_xs2"
+DEFAULT_SCAN_INTERVAL = 60
